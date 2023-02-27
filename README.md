@@ -27,7 +27,7 @@ MIT License
 ## Project URL
 
 URL link to the Password Generator webpage:
-(https://saritha2708.github.io/generate-password/).
+(https://saritha2708.github.io/password-generator/).
 
 
 ## Project image
